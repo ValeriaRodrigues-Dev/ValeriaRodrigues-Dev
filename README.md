@@ -1,4 +1,4 @@
-- 👋 Hi, eu sou a Valeria Rodrigues, estou no caminho para me tornar uma dev
+- 👋 Hi, eu sou a Valéria Rodrigues, estou no caminho para me tornar uma dev
 - No momento estou interessada em me tornar uma desenvolvedora front-end 
 - Estou fazendo faculdade de análise e desenvolvimento de sistemas, indo para o 2º semestre... 
 - Estou estudando por fora HTML e CSS, pois quero começar a me desenvolver na área
