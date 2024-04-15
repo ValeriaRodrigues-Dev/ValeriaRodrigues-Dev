@@ -1,4 +1,4 @@
-👋 Olá! Sou Valéria, Faco faculdade de Análise e Desenvolvimento de Sistemas.
+👋 Olá! Sou Valéria, Faço faculdade de Análise e Desenvolvimento de Sistemas.
 
 💻 Atualmente, estou focada no desenvolvimento de interfaces de usuário responsivas e acessíveis usando tecnologias como HTML, CSS e JavaScript.
 
